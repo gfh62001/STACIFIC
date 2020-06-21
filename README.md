@@ -19,6 +19,11 @@ git branch (branchname)
 ```
 git checkout (branchname)
 ```
+### 上傳前指令
+```
+git add .
+git commit -m '上傳說明'
+```
 
 ### 上傳資料：
 
